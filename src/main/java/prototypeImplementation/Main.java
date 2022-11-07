@@ -11,10 +11,6 @@ public class Main {
 		for( int i = 0; i < 10; i++ ) {
 			copyList.add( vec1.clone() );
 		}
-		
-		for( Vehicle v: copyList ) {
-			System.out.println(v.getBrand());
-		}
 	}
 
 }
