@@ -1,0 +1,16 @@
+Vet 2
+Tsu 1
+Smc 3
+Alb 2
+Rus 4
+Nor 6
+Gas 4
+Lec 9
+Oco 2
+Alo 5
+Ric 8
+Per 5
+Ham 30
+Sai 6
+Ver 9
+Bot 3
